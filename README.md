@@ -32,7 +32,7 @@ assets/screenshots/flutter-login-ui.png
 <h2>📸 Screenshot</h2>
 
 <p align="center">
-  <img src="assets/screenshots/login-ui.png" width="300">
+  <img src="assets/screenshots/flutter-login-ui.png" width="300">
 </p>
 
 ```
