@@ -29,7 +29,11 @@ A clean and modern Flutter login screen UI built for learning Flutter layouts an
 ```
 assets/screenshots/flutter-login-ui.png
 
-<img width="345" height="595" alt="image" src="https://github.com/user-attachments/assets/e0f29a04-363c-409f-bfdf-12cea0bbb321" />
+<h2>📸 Screenshot</h2>
+
+<p align="center">
+  <img src="assets/screenshots/login-ui.png" width="300">
+</p>
 
 ```
 
