@@ -26,7 +26,7 @@ A clean and modern Flutter login screen UI built for learning Flutter layouts an
 ## 📸 Screenshots
 
 
-```
+
 assets/screenshots/flutter-login-ui.png
 
 <h2>📸 Screenshot</h2>
@@ -35,7 +35,6 @@ assets/screenshots/flutter-login-ui.png
   <img src="assets/screenshots/flutter-login-ui.png" width="300">
 </p>
 
-```
 
 ---
 
