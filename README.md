@@ -28,6 +28,8 @@ A clean and modern Flutter login screen UI built for learning Flutter layouts an
 
 ```
 assets/screenshots/flutter-login-ui.png
+
+![alt text](image.png)
 ```
 
 ---
@@ -42,39 +44,38 @@ assets/screenshots/flutter-login-ui.png
 
 ## 📂 Project Structure
 
-```
-## 📂 Project Structure
-
-```
+```text
 flutter-login-ui/
 │
-├── android/                # Android platform-specific files
-├── ios/                    # iOS platform-specific files
-├── linux/                  # Linux platform-specific files
-├── macos/                  # macOS platform-specific files
-├── web/                    # Web platform-specific files
-├── windows/                # Windows platform-specific files
+├── android/                    # Android platform-specific files
+├── ios/                        # iOS platform-specific files
+├── linux/                      # Linux platform-specific files
+├── macos/                      # macOS platform-specific files
+├── web/                        # Web platform-specific files
+├── windows/                    # Windows platform-specific files
+│
 ├── images/
-│   └── logo.png 
+│   └── logo.png
+│
 ├── fonts/
-│   └── rubik_medium.ttf 
+│   ├── rubik_medium.ttf
 │   └── rubik_regular.ttf
+│
 ├── assets/
-│   └── screenshot
-│       └── flutter-login-ui.png  
+│   └── screenshot/
+│       └── flutter-login-ui.png
 │
 ├── lib/
-│   └── main.dart           # Main application source code
+│   └── main.dart               # Main application source code
 │
-├── test/                   # Widget tests
+├── test/                       # Widget tests
 │
 ├── .gitignore
 ├── .metadata
 ├── analysis_options.yaml
-├── pubspec.yaml            # Project dependencies and configuration
-├── pubspec.lock            # Locked dependency versions
-└── README.md               # Project documentation
-```
+├── pubspec.yaml                # Project dependencies and configuration
+├── pubspec.lock
+└── README.md
 ```
 
 ---
